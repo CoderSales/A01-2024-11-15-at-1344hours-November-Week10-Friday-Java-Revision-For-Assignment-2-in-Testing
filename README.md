@@ -11,9 +11,9 @@ ____
 
 Scroll up --> has
 
-# - ![image](https://github.com/user-attachments/assets/1438dedb-6fee-43d5-b80d-c277a6bc4f33)
+- ![image](https://github.com/user-attachments/assets/1438dedb-6fee-43d5-b80d-c277a6bc4f33)
 
-# redo image:
+redo image:
 
 <img src="https://github.com/user-attachments/assets/1438dedb-6fee-43d5-b80d-c277a6bc4f33"  width="60%" height="30%">
 
