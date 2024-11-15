@@ -7,4 +7,6 @@ ____
 
 - ![image](https://github.com/user-attachments/assets/715cc905-3335-4218-bcc8-c8aabdb37a1d)
 
+- has [java.util](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html)
+
 ____
