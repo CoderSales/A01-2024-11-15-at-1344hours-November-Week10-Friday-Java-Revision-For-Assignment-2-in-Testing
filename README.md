@@ -13,7 +13,7 @@ ____
 
 ### java.util
 
-[<img src="https://github.com/user-attachments/assets/715cc905-3335-4218-bcc8-c8aabdb37a1d"  width="40%" height="15%" alt="java.lang">](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html)
+[<img src="https://github.com/user-attachments/assets/715cc905-3335-4218-bcc8-c8aabdb37a1d" width="40%" height="15%" alt="java.lang">](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html)
 
 - has [java.util](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html)
 
