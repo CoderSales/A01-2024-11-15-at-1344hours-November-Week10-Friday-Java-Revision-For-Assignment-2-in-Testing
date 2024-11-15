@@ -5,7 +5,7 @@ ____
 
 [Overview (Java Platform SE 8 )](https://docs.oracle.com/javase/8/docs/api/)
 
-- ![image](https://github.com/user-attachments/assets/715cc905-3335-4218-bcc8-c8aabdb37a1d)
+[<img src="https://github.com/user-attachments/assets/715cc905-3335-4218-bcc8-c8aabdb37a1d"  width="60%" height="30%" alt="java.lang">](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html)
 
 - has [java.util](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html)
 
