@@ -5,13 +5,13 @@ ____
 
 [Overview (Java Platform SE 8 )](https://docs.oracle.com/javase/8/docs/api/)
 
-[<img src="https://github.com/user-attachments/assets/715cc905-3335-4218-bcc8-c8aabdb37a1d"  width="60%" height="30%" alt="java.lang">](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html)
+[<img src="https://github.com/user-attachments/assets/715cc905-3335-4218-bcc8-c8aabdb37a1d"  width="40%" height="15%" alt="java.lang">](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html)
 
 - has [java.util](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html)
 
 Scroll up --> has
 
-[<img src="https://github.com/user-attachments/assets/1438dedb-6fee-43d5-b80d-c277a6bc4f33"  width="60%" height="30%" alt="java.lang">](https://docs.oracle.com/javase/8/docs/api/java/lang/package-summary.html)
+[<img src="https://github.com/user-attachments/assets/1438dedb-6fee-43d5-b80d-c277a6bc4f33"  width="40%" height="15%" alt="java.lang">](https://docs.oracle.com/javase/8/docs/api/java/lang/package-summary.html)
 
 ____
 
