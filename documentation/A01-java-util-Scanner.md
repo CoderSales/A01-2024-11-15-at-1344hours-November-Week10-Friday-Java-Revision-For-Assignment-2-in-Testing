@@ -26,4 +26,11 @@ ____
 [<img src="https://github.com/user-attachments/assets/6a91c5e2-7479-4933-9072-8fd2f89b2e49" width="40%" height="15%" alt="java.util.Scanner">](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)
 
 has [Scanner.util.Scanner](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)
+
+____
+
+java.util.Scanner has nextFloat()
+
+[<img src="https://github.com/user-attachments/assets/27f78e7e-e24f-42c6-ac0d-ecef94349412" width="40%" height="15%" alt="java.util.Scanner">](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)
+
 ____
