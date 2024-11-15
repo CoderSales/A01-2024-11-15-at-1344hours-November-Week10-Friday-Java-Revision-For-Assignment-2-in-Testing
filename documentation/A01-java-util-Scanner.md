@@ -20,3 +20,9 @@ ____
 - has [java.util](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html)
 
 ____
+
+## java.util.Scanner
+
+![image](https://github.com/user-attachments/assets/6a91c5e2-7479-4933-9072-8fd2f89b2e49)
+
+____
