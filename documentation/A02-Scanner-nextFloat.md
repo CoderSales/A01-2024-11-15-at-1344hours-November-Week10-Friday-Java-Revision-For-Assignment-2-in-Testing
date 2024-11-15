@@ -1,3 +1,3 @@
 # Scanner nextFloat
 
-![image](https://github.com/user-attachments/assets/aba343d9-e896-4dc9-bf78-1fbc12f0a852)
+![image](https://github.com/user-attachments/assets/659217ab-cccc-432c-813c-4baa76c631a3)
