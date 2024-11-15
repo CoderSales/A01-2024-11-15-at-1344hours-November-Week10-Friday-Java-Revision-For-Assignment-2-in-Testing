@@ -7,7 +7,7 @@ Both screenshots here from:
 
 [Overview (Java Platform SE 8 )](https://docs.oracle.com/javase/8/docs/api/)
 
-but clicking on these go to the pages [java.lang](https://docs.oracle.com/javase/8/docs/api/java/lang/package-summary.html) and [java.util](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html).
+but clicking on these go to the pages [java.util](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html) and [java.lang](https://docs.oracle.com/javase/8/docs/api/java/lang/package-summary.html).
 
 ____
 
