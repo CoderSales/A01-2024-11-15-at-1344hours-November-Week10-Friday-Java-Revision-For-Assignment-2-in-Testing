@@ -21,6 +21,17 @@ ____
 
 [how markdown adjust size image - Google Search](https://www.google.com/search?q=how+markdown+adjust+size+image&oq=how+markdown+adjust+size+image&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyCggFEAAYgAQYogTSAQg2ODc5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 
+____
+
 [How to change image size in Markdown](https://www.educative.io/answers/how-to-change-image-size-in-markdown)
+
+We can also set the width and height using percentages, as follows:
+
+```html
+<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="60%" height="30%">
+```
+
+____
+
 
 ____
