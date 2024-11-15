@@ -11,7 +11,7 @@ ____
 
 Scroll up --> has
 
-- [<img src="https://github.com/user-attachments/assets/1438dedb-6fee-43d5-b80d-c277a6bc4f33"  width="60%" height="30%" alt="java.lang">](https://docs.oracle.com/javase/8/docs/api/java/lang/package-summary.html)
+[<img src="https://github.com/user-attachments/assets/1438dedb-6fee-43d5-b80d-c277a6bc4f33"  width="60%" height="30%" alt="java.lang">](https://docs.oracle.com/javase/8/docs/api/java/lang/package-summary.html)
 
 ____
 
