@@ -15,7 +15,7 @@ ____
 
 ### java.util
 
-[<img src="https://github.com/user-attachments/assets/715cc905-3335-4218-bcc8-c8aabdb37a1d" width="40%" height="15%" alt="java.lang">](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html)
+[<img src="https://github.com/user-attachments/assets/715cc905-3335-4218-bcc8-c8aabdb37a1d" width="40%" height="15%" alt="java.util">](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html)
 
 - has [java.util](https://docs.oracle.com/javase/8/docs/api/java/util/package-summary.html)
 
@@ -23,6 +23,7 @@ ____
 
 ## java.util.Scanner
 
-![image](https://github.com/user-attachments/assets/6a91c5e2-7479-4933-9072-8fd2f89b2e49)
+[<img src="https://github.com/user-attachments/assets/6a91c5e2-7479-4933-9072-8fd2f89b2e49" width="40%" height="15%" alt="java.util.Scanner">](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)
 
+has [Scanner.util.Scanner](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)
 ____
