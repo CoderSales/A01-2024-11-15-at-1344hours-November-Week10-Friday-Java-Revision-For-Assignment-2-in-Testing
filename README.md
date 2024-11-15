@@ -3,6 +3,8 @@ A01-2024-11-15-at-1344hours-November-Week10-Friday-Java-Revision-For-Assignment-
 
 ____
 
+Both screenshots here from:
+
 [Overview (Java Platform SE 8 )](https://docs.oracle.com/javase/8/docs/api/)
 
 ____
