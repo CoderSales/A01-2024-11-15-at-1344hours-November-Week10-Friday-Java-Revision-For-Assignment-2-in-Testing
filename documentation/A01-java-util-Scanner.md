@@ -36,3 +36,7 @@ java.util.Scanner has nextFloat()
 Ctrl + F (to Find in Page) --> "nextFloat"
 
 ____
+
+![image](https://github.com/user-attachments/assets/302301b2-67c9-43e3-a42c-622f4ca9a244)
+
+____
