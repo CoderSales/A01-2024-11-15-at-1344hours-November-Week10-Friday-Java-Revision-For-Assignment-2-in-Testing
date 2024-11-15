@@ -16,3 +16,11 @@ Scroll up --> has
 - [java.lang](https://docs.oracle.com/javase/8/docs/api/java/lang/package-summary.html)
 
 ____
+
+## References
+
+[how markdown adjust size image - Google Search](https://www.google.com/search?q=how+markdown+adjust+size+image&oq=how+markdown+adjust+size+image&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyCggFEAAYgAQYogTSAQg2ODc5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+
+[How to change image size in Markdown](https://www.educative.io/answers/how-to-change-image-size-in-markdown)
+
+____
